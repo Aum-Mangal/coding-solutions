@@ -2,8 +2,8 @@
  * Problem: Palindrome Number (#9)
  * URL: https://leetcode.com/problems/palindrome-number/
  * Language: cpp
- * Runtime: 6 ms | Memory: 8.5 MB
- * Submitted: 2025-02-11T13:32:01 (Submission ID: 1539301330)
+ * Runtime: 0 ms | Memory: 8.6 MB
+ * Submitted: 2025-02-11T13:32:56 (Submission ID: 1539302261)
  */
 
 class Solution {
@@ -16,8 +16,7 @@ public:
         }
         else{
             while(x!=0){
-            long  a=x%10;
-            n=(n*10)+a;
+            n=(n*10)+x%10;
             x/=10;
         }
         if(j==n){
