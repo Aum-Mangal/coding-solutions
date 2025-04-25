@@ -2,8 +2,8 @@
  * Problem: Sort Colors (#75)
  * URL: https://leetcode.com/problems/sort-colors/
  * Language: cpp
- * Runtime: 1 ms | Memory: 11.5 MB
- * Submitted: 2025-04-25T11:32:17 (Submission ID: 1617530029)
+ * Runtime: 0 ms | Memory: 11.7 MB
+ * Submitted: 2025-04-25T11:33:18 (Submission ID: 1617530634)
  */
 
 class Solution {
@@ -27,9 +27,7 @@ public:
                 high--;
             }
         }
-        for(int i=0;i<n;i++){
-            cout<<nums[i];
-        }
+        
 
 
 
