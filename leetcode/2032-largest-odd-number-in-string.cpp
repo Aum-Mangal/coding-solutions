@@ -2,8 +2,8 @@
  * Problem: Largest Odd Number in String (#2032)
  * URL: https://leetcode.com/problems/largest-odd-number-in-string/
  * Language: cpp
- * Runtime: 3 ms | Memory: 17.8 MB
- * Submitted: 2025-09-11T17:22:27 (Submission ID: 1767437267)
+ * Runtime: 0 ms | Memory: 17.9 MB
+ * Submitted: 2025-09-11T17:23:26 (Submission ID: 1767438566)
  */
 
 class Solution {
