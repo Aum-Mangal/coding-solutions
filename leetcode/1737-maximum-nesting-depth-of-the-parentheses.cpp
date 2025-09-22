@@ -2,8 +2,8 @@
  * Problem: Maximum Nesting Depth of the Parentheses (#1737)
  * URL: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
  * Language: cpp
- * Runtime: 0 ms | Memory: 8.3 MB
- * Submitted: 2025-09-22T14:50:43 (Submission ID: 1779189344)
+ * Runtime: 0 ms | Memory: 8.4 MB
+ * Submitted: 2025-09-22T14:52:43 (Submission ID: 1779191298)
  */
 
 class Solution {
