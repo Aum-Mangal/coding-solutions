@@ -2,8 +2,8 @@
  * Problem: Candy (#135)
  * URL: https://leetcode.com/problems/candy/
  * Language: cpp
- * Runtime: 1 ms | Memory: 71.2 MB
- * Submitted: 2026-08-22T06:31:17 (Submission ID: 2115797674)
+ * Runtime: 8 ms | Memory: 71.3 MB
+ * Submitted: 2026-08-22T06:31:26 (Submission ID: 2115797841)
  */
 
 class Solution {
