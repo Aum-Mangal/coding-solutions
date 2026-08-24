@@ -2,8 +2,8 @@
  * Problem: Find the Difference (#389)
  * URL: https://leetcode.com/problems/find-the-difference/
  * Language: cpp
- * Runtime: 0 ms | Memory: 9.3 MB
- * Submitted: 2026-08-24T14:38:06 (Submission ID: 2118547542)
+ * Runtime: 0 ms | Memory: 9.2 MB
+ * Submitted: 2026-08-24T14:38:50 (Submission ID: 2118548412)
  */
 
 class Solution {
