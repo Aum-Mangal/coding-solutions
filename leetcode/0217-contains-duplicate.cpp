@@ -2,8 +2,8 @@
  * Problem: Contains Duplicate (#217)
  * URL: https://leetcode.com/problems/contains-duplicate/
  * Language: cpp
- * Runtime: 79 ms | Memory: 113.4 MB
- * Submitted: 2026-08-14T17:25:18 (Submission ID: 2106875905)
+ * Runtime: 86 ms | Memory: 113.4 MB
+ * Submitted: 2026-08-27T16:32:44 (Submission ID: 2122117965)
  */
 
 class Solution {
