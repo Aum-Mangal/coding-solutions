@@ -2,8 +2,8 @@
  * Problem: Evaluate Reverse Polish Notation (#150)
  * URL: https://leetcode.com/problems/evaluate-reverse-polish-notation/
  * Language: cpp
- * Runtime: 4 ms | Memory: 17.1 MB
- * Submitted: 2026-08-30T06:27:29 (Submission ID: 2124716345)
+ * Runtime: 1 ms | Memory: 17 MB
+ * Submitted: 2026-08-30T06:29:47 (Submission ID: 2124718540)
  */
 
 class Solution {
