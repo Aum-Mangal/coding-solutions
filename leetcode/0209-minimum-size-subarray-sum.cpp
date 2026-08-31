@@ -2,8 +2,8 @@
  * Problem: Minimum Size Subarray Sum (#209)
  * URL: https://leetcode.com/problems/minimum-size-subarray-sum/
  * Language: cpp
- * Runtime: 0 ms | Memory: 42 MB
- * Submitted: 2026-09-01T04:09:05 (Submission ID: 2126765127)
+ * Runtime: 4 ms | Memory: 42 MB
+ * Submitted: 2026-09-01T04:10:35 (Submission ID: 2126766261)
  */
 
 class Solution {
@@ -21,8 +21,7 @@ public:
             }
 
         }
-        int a=accumulate(nums.begin(),nums.end(),0);
-        if(a<k) return 0;
+        if(size==INT_MAX) return 0;
         return size;
 
     }
