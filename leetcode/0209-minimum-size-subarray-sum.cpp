@@ -3,7 +3,7 @@
  * URL: https://leetcode.com/problems/minimum-size-subarray-sum/
  * Language: cpp
  * Runtime: 4 ms | Memory: 42 MB
- * Submitted: 2026-09-01T04:10:35 (Submission ID: 2126766261)
+ * Submitted: 2026-09-01T04:10:44 (Submission ID: 2126766384)
  */
 
 class Solution {
