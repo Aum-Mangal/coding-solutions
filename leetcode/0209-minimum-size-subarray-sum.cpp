@@ -2,8 +2,8 @@
  * Problem: Minimum Size Subarray Sum (#209)
  * URL: https://leetcode.com/problems/minimum-size-subarray-sum/
  * Language: cpp
- * Runtime: 4 ms | Memory: 42 MB
- * Submitted: 2026-09-01T04:10:44 (Submission ID: 2126766384)
+ * Runtime: 0 ms | Memory: 42.1 MB
+ * Submitted: 2026-09-01T04:10:53 (Submission ID: 2126766495)
  */
 
 class Solution {
