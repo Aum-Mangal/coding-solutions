@@ -2,8 +2,8 @@
  * Problem: Maximum Sum of Distinct Subarrays With Length K (#2552)
  * URL: https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
  * Language: cpp
- * Runtime: 98 ms | Memory: 95.1 MB
- * Submitted: 2026-09-01T03:22:37 (Submission ID: 2126734628)
+ * Runtime: 103 ms | Memory: 95.2 MB
+ * Submitted: 2026-09-01T03:22:46 (Submission ID: 2126734714)
  */
 
 class Solution {
