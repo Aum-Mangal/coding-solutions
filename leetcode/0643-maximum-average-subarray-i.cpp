@@ -2,8 +2,8 @@
  * Problem: Maximum Average Subarray I (#643)
  * URL: https://leetcode.com/problems/maximum-average-subarray-i/
  * Language: cpp
- * Runtime: 4 ms | Memory: 113.9 MB
- * Submitted: 2026-09-01T03:07:53 (Submission ID: 2126726494)
+ * Runtime: 3 ms | Memory: 113.6 MB
+ * Submitted: 2026-09-01T03:08:03 (Submission ID: 2126726593)
  */
 
 class Solution {
