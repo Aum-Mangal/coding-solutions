@@ -3,7 +3,7 @@
  * URL: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  * Language: cpp
  * Runtime: 55 ms | Memory: 19.4 MB
- * Submitted: 2026-08-31T15:10:32 (Submission ID: 2126243079)
+ * Submitted: 2026-08-31T15:55:47 (Submission ID: 2126291667)
  */
 
 class Solution {
