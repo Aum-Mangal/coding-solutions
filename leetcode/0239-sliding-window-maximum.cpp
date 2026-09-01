@@ -2,8 +2,8 @@
  * Problem: Sliding Window Maximum (#239)
  * URL: https://leetcode.com/problems/sliding-window-maximum/
  * Language: cpp
- * Runtime: 22 ms | Memory: 139.2 MB
- * Submitted: 2026-09-01T08:11:41 (Submission ID: 2126980610)
+ * Runtime: 20 ms | Memory: 139.2 MB
+ * Submitted: 2026-09-01T08:11:51 (Submission ID: 2126980737)
  */
 
 class Solution {
