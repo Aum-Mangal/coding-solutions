@@ -2,8 +2,8 @@
  * Problem: Rotating the Box (#1972)
  * URL: https://leetcode.com/problems/rotating-the-box/
  * Language: cpp
- * Runtime: 19 ms | Memory: 56.8 MB
- * Submitted: 2026-09-03T14:22:08 (Submission ID: 2129701595)
+ * Runtime: 4 ms | Memory: 56.7 MB
+ * Submitted: 2026-09-03T14:22:22 (Submission ID: 2129701810)
  */
 
 class Solution {
