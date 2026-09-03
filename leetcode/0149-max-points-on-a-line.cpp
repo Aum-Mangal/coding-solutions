@@ -2,8 +2,8 @@
  * Problem: Max Points on a Line (#149)
  * URL: https://leetcode.com/problems/max-points-on-a-line/
  * Language: cpp
- * Runtime: 15 ms | Memory: 17.7 MB
- * Submitted: 2026-09-04T05:09:56 (Submission ID: 2130300688)
+ * Runtime: 17 ms | Memory: 17.4 MB
+ * Submitted: 2026-09-04T05:10:04 (Submission ID: 2130300817)
  */
 
 class Solution {
