@@ -2,8 +2,8 @@
  * Problem: Daily Temperatures (#739)
  * URL: https://leetcode.com/problems/daily-temperatures/
  * Language: cpp
- * Runtime: 27 ms | Memory: 107.4 MB
- * Submitted: 2026-09-04T13:49:53 (Submission ID: 2130755316)
+ * Runtime: 25 ms | Memory: 107.4 MB
+ * Submitted: 2026-09-04T13:50:00 (Submission ID: 2130755429)
  */
 
 class Solution {
