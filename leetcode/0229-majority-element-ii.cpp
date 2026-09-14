@@ -2,8 +2,8 @@
  * Problem: Majority Element II (#229)
  * URL: https://leetcode.com/problems/majority-element-ii/
  * Language: cpp
- * Runtime: 7 ms | Memory: 26.5 MB
- * Submitted: 2026-09-14T17:06:39 (Submission ID: 2141808603)
+ * Runtime: 3 ms | Memory: 26.3 MB
+ * Submitted: 2026-09-14T17:06:47 (Submission ID: 2141808757)
  */
 
 class Solution {
