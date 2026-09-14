@@ -2,8 +2,8 @@
  * Problem: Boats to Save People (#917)
  * URL: https://leetcode.com/problems/boats-to-save-people/
  * Language: cpp
- * Runtime: 19 ms | Memory: 45.8 MB
- * Submitted: 2026-09-14T10:20:14 (Submission ID: 2141444848)
+ * Runtime: 21 ms | Memory: 45.9 MB
+ * Submitted: 2026-09-14T10:20:21 (Submission ID: 2141444933)
  */
 
 class Solution {
