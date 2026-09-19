@@ -2,15 +2,15 @@
  * Problem: Maximum Pulse Value After One Subarray Rotation (#4196)
  * URL: https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/
  * Language: cpp
- * Runtime: 8 ms | Memory: 150.5 MB
- * Submitted: 2026-09-20T03:10:22 (Submission ID: 2147206101)
+ * Runtime: 7 ms | Memory: 150.7 MB
+ * Submitted: 2026-09-20T03:35:32 (Submission ID: 2147246565)
  */
 
 class Solution {
 public:
     long long maxValue(vector<int>& a) {
         int n = a.size();
-        vector<int> ravonelqis = a;
+        vector<int> aa = a;
 
         long long org = 0;
 
