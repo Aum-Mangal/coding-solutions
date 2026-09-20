@@ -2,19 +2,19 @@
  * Problem: Contains Duplicate (#217)
  * URL: https://leetcode.com/problems/contains-duplicate/
  * Language: cpp
- * Runtime: 86 ms | Memory: 113.4 MB
- * Submitted: 2026-08-27T16:32:44 (Submission ID: 2122117965)
+ * Runtime: 73 ms | Memory: 113.5 MB
+ * Submitted: 2026-09-20T11:26:59 (Submission ID: 2147622664)
  */
 
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int,int> freq;
-        for(int i:nums){
-            freq[i]++;
+        unordered_map<int,int> f;
+        for(int x:nums){
+            f[x]++;
         }
-        for(auto it : freq){
-            if(it.second>1){
+        for(auto i:f){
+            if(i.second>1){
                 return true;
             }
         }
