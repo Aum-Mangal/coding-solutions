@@ -2,24 +2,23 @@
  * Problem: Two Sum (#1)
  * URL: https://leetcode.com/problems/two-sum/
  * Language: cpp
- * Runtime: 35 ms | Memory: 14 MB
- * Submitted: 2025-04-25T07:40:33 (Submission ID: 1617368105)
+ * Runtime: 4 ms | Memory: 15 MB
+ * Submitted: 2026-09-20T11:36:08 (Submission ID: 2147629321)
  */
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]+nums[j]==target){
-                    return {i,j};
-                }
-                
+        unordered_map<int,int> a;
+        for(int i=0;i<nums.size();i++){
+            int x=target-nums[i];
+            if(a.count(x)){
+                return {a[x],i};
             }
-            
+            a[nums[i]]=i;
         }
-        return {};
         
+        return{};
+
     }
 };
